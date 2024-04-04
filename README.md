@@ -36,7 +36,7 @@ Before setting up the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:srkonok/Online-Learning-Platform.git
    ```
 
 2. Navigate to the project directory:
